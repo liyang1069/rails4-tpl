@@ -1,2 +1,2 @@
 # rails4-tpl
-rails4-templitale
+rails4-template
